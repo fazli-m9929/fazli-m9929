@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/fazli-m9929?label=Follow&style=social)](https://github.com/fazli-m9929)
 
 I am an enthusiastic Data Engineer with a Master’s degree in Electrical Engineering, currently specializing in large language models (LLMs) at DBA Company. I have a strong interest in data science, particularly in natural language processing, image analysis, and computer vision.
+
 ---
 
 ## 🚀 My Projects
