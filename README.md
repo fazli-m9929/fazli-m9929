@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=fazli-m9929&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/fazli-m9929?label=Follow&style=social)](https://github.com/fazli-m9929)
 
-I'm an **Electrical Engineering student at University of Tehran**, passionate about building smart and efficient systems. My interests span across deep learning, natural language processing, and practical applications in computer vision and signal processing.
-
+I am an enthusiastic Data Engineer with a Master’s degree in Electrical Engineering, currently specializing in large language models (LLMs) at DBA Company. I have a strong interest in data science, particularly in natural language processing, image analysis, and computer vision.
 ---
 
 ## 🚀 My Projects
