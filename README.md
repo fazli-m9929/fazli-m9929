@@ -23,22 +23,14 @@ Here are a few projects I have been working on:
   A collection of LaTeX files to manage and compile my professional CVs and resumes.  
   👉 [View Repository](https://github.com/fazli-m9929/Resume-CV)
 
-- **Useful Functions**  
-  A repository for storing handy Python functions and snippets that are useful in various projects.  
-  👉 [View Repository](https://github.com/fazli-m9929/Usefull-functions)
-
-- **GitHub Profile Config**  
-  Configuration files and assets for my GitHub profile setup.  
-  👉 [View Repository](https://github.com/fazli-m9929/fazli-m9929)
-
 ---
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on research and personal projects related to machine learning and embedded systems.
+- 🔭 I’m currently working on research and personal projects related to machine learning and K8s.
 - 🌱 I’m learning more advanced techniques in deep learning and computer vision.
 - 📍 Based in Tehran, Iran
-- 💬 Ask me about **Python**, **Deep Learning**, or anything related to **Electrical Engineering**.
+- 💬 Ask me about **Python**, **Deep Learning**, **LLMs**, **Docker**, or anything related to **MLOps**.
 
 ---
 
@@ -54,8 +46,7 @@ Here are a few projects I have been working on:
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** [fazli.m9929@gmail.com](mailto:fazli.m9929@gmail.com)
 - **GitHub:** [@fazli-m9929](https://github.com/fazli-m9929)
 
 ---
