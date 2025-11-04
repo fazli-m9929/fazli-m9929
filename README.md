@@ -19,6 +19,10 @@ Here are a few projects I have been working on:
   A project using Jupyter Notebook that leverages transformer models to classify texts into multiple labels.  
   👉 [View Repository](https://github.com/fazli-m9929/bert-multi-label-classification)
 
+- **Multi-Armed-Bandit-Simulator**
+ A clean, modular, lightweight simulator for testing and comparing different multi-armed bandit problem (RL).
+  👉 [View Repository](https://github.com/fazli-m9929/Multi-Armed-Bandit-Simulator)
+
 - **Resume-CV**  
   A collection of LaTeX files to manage and compile my professional CVs and resumes.  
   👉 [View Repository](https://github.com/fazli-m9929/Resume-CV)
