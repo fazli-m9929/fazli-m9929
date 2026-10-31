@@ -13,7 +13,7 @@ Here are a few projects I have been working on:
 
 - **Framecraft**  
   A local video-processing studio built with Python and FastAPI, featuring a browser editor, FFmpeg exports, and integration with a user-supplied native DLSS rendering runtime.  
-  👉 [View Repository](https://github.com/fazli-m9929/framecraft)
+  👉 [View Repository](https://github.com/fazli-m9929/Framecraft-DLSS5)
 
 - **Jina Embeddings v4**  
   My work with Jina Embeddings v4.  
