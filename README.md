@@ -11,21 +11,28 @@ I am an enthusiastic Data Engineer with a Master’s degree in Electrical Engine
 
 Here are a few projects I have been working on:
 
+- **Framecraft**  
+  A local video-processing studio built with Python and FastAPI, featuring a browser editor, FFmpeg exports, and integration with a user-supplied native DLSS rendering runtime.  
+  👉 [View Repository](https://github.com/fazli-m9929/framecraft)
+
+- **Jina Embeddings v4**  
+  My work with Jina Embeddings v4.  
+  👉 [View Repository](https://github.com/fazli-m9929/jina-embeddings-v4)
+
 - **Local Chat Service**  
-  A lightweight chat server implemented in Python designed for local network communications.  
+  A lightweight Python chat server for local network communication.  
   👉 [View Repository](https://github.com/fazli-m9929/local-chat-service)
 
 - **BERT Multi-Label Classification**  
-  A project using Jupyter Notebook that leverages transformer models to classify texts into multiple labels.  
+  A transformer-based text classification project using BERT and Jupyter Notebook to assign multiple labels to text.  
   👉 [View Repository](https://github.com/fazli-m9929/bert-multi-label-classification)
 
-
-- **Multi-Armed-Bandit-Simulator**  
-  A clean, modular, lightweight simulator for testing and comparing different multi-armed bandit problem (RL).  
+- **Multi-Armed Bandit Simulator**  
+  A modular, lightweight simulator for testing and comparing multi-armed bandit algorithms in reinforcement learning.  
   👉 [View Repository](https://github.com/fazli-m9929/multi-armed-bandit-simulator)
 
 - **Resume-CV**  
-  A collection of LaTeX files to manage and compile my professional CVs and resumes.  
+  A collection of LaTeX files for managing and compiling my professional CVs and resumes.  
   👉 [View Repository](https://github.com/fazli-m9929/Resume-CV)
 
 ---
